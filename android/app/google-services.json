@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046510675516",
+    "project_id": "scrumproject-43db5",
+    "storage_bucket": "scrumproject-43db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046510675516:android:1945e4b67f8ccf435d0539",
+        "android_client_info": {
+          "package_name": "io.madhank93.todo_app_with_flutter_and_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046510675516-2st1qvq4t0rcdbnjvds20hn5k8s61r30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ukB_8jBzgyN4_cBi8wDxlchiiaX82cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046510675516-2st1qvq4t0rcdbnjvds20hn5k8s61r30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
